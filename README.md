@@ -14,12 +14,12 @@
 
 <div id ="Main repos" align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Suward-game&layout=compact&theme=onedark)](https://github.com/BetoJava/Suward-game)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Sufdo-Pygame-isometric-game&layout=compact&theme=onedark)](https://github.com/BetoJava/Sufdo-Pygame-isometric-game)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Lol-victory-prediction-ML&layout=compact&theme=onedark)](https://github.com/BetoJava/Lol-victory-prediction-ML)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Orowan-Tiger-Project&layout=compact&theme=onedark)](https://github.com/BetoJava/Orowan-Tiger-Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=first-HTML-CSS-JS-personal-website&layout=compact&theme=onedark)](https://github.com/BetoJava/first-HTML-CSS-JS-personal-website)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=GMTOR-game&layout=compact&theme=onedark)](https://github.com/BetoJava/GMTOR-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Suward-game&layout=compact&theme=algolia)](https://github.com/BetoJava/Suward-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Sufdo-Pygame-isometric-game&layout=compact&theme=algolia)](https://github.com/BetoJava/Sufdo-Pygame-isometric-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Lol-victory-prediction-ML&layout=compact&theme=algolia)](https://github.com/BetoJava/Lol-victory-prediction-ML)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Orowan-Tiger-Project&layout=compact&theme=algolia)](https://github.com/BetoJava/Orowan-Tiger-Project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=first-HTML-CSS-JS-personal-website&layout=compact&theme=algolia)](https://github.com/BetoJava/first-HTML-CSS-JS-personal-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=GMTOR-game&layout=compact&theme=algolia)](https://github.com/BetoJava/GMTOR-game)
 
 </div>
 
@@ -70,8 +70,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BetoJava&theme=onedark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BetoJava&theme=algolia&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetoJava&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetoJava&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![BetoJava's GitHub stats](https://github-readme-stats.vercel.app/api?username=BetoJava&show_icons=true&theme=onedark)
+![BetoJava's GitHub stats](https://github-readme-stats.vercel.app/api?username=BetoJava&show_icons=true&theme=algolia)
