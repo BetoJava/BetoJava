@@ -14,12 +14,12 @@
 
 <div id ="Main repos" align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Suward-game&layout=compact&theme=github_dark)](https://github.com/BetoJava/Suward-game)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Sufdo-Pygame-isometric-game&layout=compact&theme=github_dark)](https://github.com/BetoJava/Sufdo-Pygame-isometric-game)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Lol-victory-prediction-ML&layout=compact&theme=github_dark)](https://github.com/BetoJava/Lol-victory-prediction-ML)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Orowan-Tiger-Project&layout=compact&theme=github_dark)](https://github.com/BetoJava/Orowan-Tiger-Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=first-HTML-CSS-JS-personal-website&layout=compact&theme=github_dark)](https://github.com/BetoJava/first-HTML-CSS-JS-personal-website)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=GMTOR-game&layout=compact&theme=github_dark)](https://github.com/BetoJava/GMTOR-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Suward-game&layout=compact&theme=merko)](https://github.com/BetoJava/Suward-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Sufdo-Pygame-isometric-game&layout=compact&theme=merko)](https://github.com/BetoJava/Sufdo-Pygame-isometric-game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Lol-victory-prediction-ML&layout=compact&theme=merko)](https://github.com/BetoJava/Lol-victory-prediction-ML)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Orowan-Tiger-Project&layout=compact&theme=merko)](https://github.com/BetoJava/Orowan-Tiger-Project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=first-HTML-CSS-JS-personal-website&layout=compact&theme=merko)](https://github.com/BetoJava/first-HTML-CSS-JS-personal-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=GMTOR-game&layout=compact&theme=merko)](https://github.com/BetoJava/GMTOR-game)
 
 </div>
 
@@ -54,10 +54,10 @@
   
   - **IDE :**
   
-      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="120" height="120"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="100" height="100"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="120" height="120"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AndroidStudio" alt="AndroidStudio" width="120" height="120"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AndroidStudio" alt="AndroidStudio" width="100" height="100"/>&nbsp;
   
   - **Editing :**      
   
