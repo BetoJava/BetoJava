@@ -4,11 +4,12 @@
 # **Let's get acquainted :**
 - 🌱 I am an engineering student from Auvergne who specializes in AI, DS and ML in IMT Mines Alès school.
 
+- ⚡ Facts: I like making games, especially existing games that I would like to add features to. In addition, I really like to automate processes that can be automated and programming is the best tool for that. I'm not afraid to spend time on projects that inspire me: I've often worked for days on end without stopping on games that I really wanted to program.
 
 - 📫 How to reach me: [mail](mailto:jbjbtrognon@gmail.com)
 
-- ⚡ Fun fact: ...
 
+---
 
 ### :gift: Some of my work :
 
@@ -23,6 +24,7 @@
 
 </div>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -67,6 +69,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" alt="PremierePro" width="60" height="60"/>&nbsp;
 
 </div>
+
+---
 
 ### :fire: My Stats :
 
