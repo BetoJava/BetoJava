@@ -4,7 +4,9 @@
 # **Let's get acquainted :**
 - 🌱 I am an engineering student from Auvergne who specializes in AI, DS and ML in IMT Mines Alès school.
 
-- ⚡ Facts: I like making games, especially existing games that I would like to add features to. In addition, I really like to automate processes that can be automated and programming is the best tool for that. I'm not afraid to spend time on projects that inspire me: I've often worked for days on end without stopping on games that I really wanted to program.
+- ⚡ Facts: I like making games, especially existing games that I would like to add features to. In addition, I really like to automate processes that can be automated and programming is the best tool for that. I'm not afraid to spend time on projects that inspire me: I've often worked for days on end without stopping on games that I really wanted to program. Also, I love pixel Art !
+
+![Warrior](img/warrior.png) ![Mage](img/right0.png) ![Knight](img/royalKnight.png) ![Gros Homme Poisson](img/grosHommePoisson.png) ![Homme Poisson](img/hommePoisson.png) ![Ranger](img/left032.png) ![Wizard](img/wizard.png)
 
 - 📫 How to reach me: [mail](mailto:jbjbtrognon@gmail.com)
 
