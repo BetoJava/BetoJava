@@ -9,7 +9,7 @@
 ![Warrior](img/warrior.png) ![Mage](img/right0.png) ![Knight](img/royalKnight.png) ![Frozen Warrior](img/frozenWarrior.png) ![BR](img/br.png) ![Gros Homme Poisson](img/grosHommePoisson.png) ![Homme Poisson](img/hommePoisson.png) ![Ranger](img/left032.png) ![Wizard](img/wizard.png)
 ![Bow](img/bow.png) ![Staff](img/staff.png) ![Spell](img/spell.png) ![Robe](img/robe.png) ![Amulet](img/amulet.png) ![Ring](img/ring.png)
 
-- 📫 How to reach me: [mail](mailto:jbjbtrognon@gmail.com)
+- 📫 How to reach me: [mail](mailto:jean-baptiste.trognon@divindata.com)
 
 
 ---
