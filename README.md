@@ -22,7 +22,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Sufdo-Pygame-isometric-game&layout=compact&theme=algolia)](https://github.com/BetoJava/Sufdo-Pygame-isometric-game)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Lol-victory-prediction-ML&layout=compact&theme=algolia)](https://github.com/BetoJava/Lol-victory-prediction-ML)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=Orowan-Tiger-Project&layout=compact&theme=algolia)](https://github.com/BetoJava/Orowan-Tiger-Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=first-HTML-CSS-JS-personal-website&layout=compact&theme=algolia)](https://github.com/BetoJava/first-HTML-CSS-JS-personal-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=PixelConvert&layout=compact&theme=algolia)](https://github.com/BetoJava/PixelConvert)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BetoJava&repo=GMTOR-game&layout=compact&theme=algolia)](https://github.com/BetoJava/GMTOR-game)
 
 </div>
