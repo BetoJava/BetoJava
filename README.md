@@ -11,10 +11,13 @@
 
 - 📫 How to reach me: [mail](mailto:jean-baptiste.trognon@divindata.com)
 
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BetoJava&theme=algolia&background=000000)](https://git.io/streak-stats)
 
 ---
 
-### :gift: Some of my work :
+### :gift: Some of my old work :
 
 <div id ="Main repos" align="center">
 
@@ -67,10 +70,7 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BetoJava&theme=algolia&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats on public repos :
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetoJava&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![BetoJava's GitHub stats](https://github-readme-stats.vercel.app/api?username=BetoJava&show_icons=true&theme=algolia)
